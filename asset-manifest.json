@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Runway_Work/static/css/main.e931bf64.chunk.css",
+    "main.js": "/Runway_Work/static/js/main.1a313e0a.chunk.js",
+    "main.js.map": "/Runway_Work/static/js/main.1a313e0a.chunk.js.map",
+    "runtime-main.js": "/Runway_Work/static/js/runtime-main.9e13d252.js",
+    "runtime-main.js.map": "/Runway_Work/static/js/runtime-main.9e13d252.js.map",
+    "static/js/2.20db24ce.chunk.js": "/Runway_Work/static/js/2.20db24ce.chunk.js",
+    "static/js/2.20db24ce.chunk.js.map": "/Runway_Work/static/js/2.20db24ce.chunk.js.map",
+    "static/js/3.9474c53a.chunk.js": "/Runway_Work/static/js/3.9474c53a.chunk.js",
+    "static/js/3.9474c53a.chunk.js.map": "/Runway_Work/static/js/3.9474c53a.chunk.js.map",
+    "index.html": "/Runway_Work/index.html",
+    "static/css/main.e931bf64.chunk.css.map": "/Runway_Work/static/css/main.e931bf64.chunk.css.map",
+    "static/js/2.20db24ce.chunk.js.LICENSE.txt": "/Runway_Work/static/js/2.20db24ce.chunk.js.LICENSE.txt",
+    "static/media/Blockcomp.css": "/Runway_Work/static/media/bodysectionCimage.e72eefa1.jpg",
+    "static/media/CarouselNFT.css": "/Runway_Work/static/media/nft-card_todd-zhang.bc6f7ead.jpg",
+    "static/media/Carousel.css": "/Runway_Work/static/media/runwayPhoto.6ae191bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e13d252.js",
+    "static/js/2.20db24ce.chunk.js",
+    "static/css/main.e931bf64.chunk.css",
+    "static/js/main.1a313e0a.chunk.js"
+  ]
+}
