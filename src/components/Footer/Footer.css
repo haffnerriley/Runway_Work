@@ -1,0 +1,361 @@
+.FooterContents{
+    /* background: linear-gradient(90deg,rgb(243, 167, 214) 0%, rgb(233, 44, 208) 100%); */
+    background: black;
+    height: 200px;
+    
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 3750px;
+    font-size: 1.2rem;
+    width: 100%;
+    left: auto;
+    right: auto;
+}
+
+.Footer-logo{
+    background: url('../../Images/logo_fuschia.png');
+    /* justify-self: start; */
+    /* margin-left: 20px; */
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    width:124px;
+    height: 56px;
+    
+    position: relative;
+}
+
+.Footer-menu{
+    display: grid;
+    grid-template-columns: repeat(7,auto);
+    grid-gap: 5px;
+    list-style: none;
+    text-align: left;
+    width: 60vw;
+    text-decoration: none;
+    margin-right: 2rem;
+}
+
+.Footer-links{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-family: Questrial;
+        font-size: 14px;
+}
+
+.Footer-links:hover {
+    background-color:#F8359B;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+    font-family: Questrial;
+        font-size: 14px;
+}
+
+.fa-bars{
+    color:#F8359B;
+
+}
+
+.Footer-links-mobile{
+    display:none;
+
+}
+.Footer-icon{
+    display: none;
+
+}
+.fb{
+    background-image: url('../../Images/facebook_icon.png');
+    width: 31px;
+    height:31px;
+}
+.insta{
+    background-image: url('../../Images/instagram_icon.png');
+        width: 31px;
+        height: 31px;
+}
+.linkedIn{
+    background-image: url('../../Images/linkedin_icon.png');
+        width: 31px;
+        height: 31px;
+}
+
+@media screen and (max-width: 960px){
+    .FooterContents{
+        /* background: linear-gradient(90deg,rgb(243, 167, 214) 0%, rgb(233, 44, 208) 100%); */
+        background: black;
+        height: 500px;
+        z-index: 0;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 5350px;
+        font-size: 1.2rem;
+        width: 100%;
+        left: auto;
+        right: auto;
+    }
+    .fb{
+        display: none;
+        margin-top: 0;
+        left: 20%;
+        position: absolute;
+        top:440px;
+        background-image: url('../../Images/facebook_icon.png');
+        width: 31px;
+        height: 31px;
+        
+    }
+    .insta{
+        display: none;
+        margin-top: 0;
+        left:48%;
+        position: absolute;
+        top:440px;
+        background-image: url('../../Images/instagram_icon.png');
+        width: 31px;
+        height: 31px;
+        
+    
+    }
+    .linkedIn{
+        display: none;
+        margin-top: 0;
+        right:20%;
+        position: absolute;
+        top:440px;
+        background-image: url('../../Images/linkedin_icon.png');
+        width: 31px;
+        height: 31px;
+    }
+
+    .socialIcons{
+        display: flex;
+        flex-direction: row;
+        width: auto;
+        height: auto;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        align-items: center;
+        align-content: center;
+
+    }
+
+    .fbMobile{
+        display: block;
+        background-image: url('../../Images/facebook_icon.png');
+        width: 31px;
+        height: 31px;
+    }
+
+    .instaMobile{
+        display: block;
+        width: 31px;
+        height: 31px;
+        background-image: url('../../Images/instagram_icon.png');
+
+    }
+
+    .linkedInMobile{
+        display: block;
+        width: 31px;
+        height: 31px;
+        background-image: url('../../Images/linkedin_icon.png');
+
+    }
+    .Footer-menu{
+      
+        display: list-item;
+        grid-template-columns: repeat(4,auto);
+
+        grid-gap: 5px;
+        list-style: none;
+        text-align: center;
+        /* width: 60vw; */
+        text-decoration: none;
+        /* margin-right: 75%; */
+        /* left: 10%; */
+        margin: auto;
+        left: auto;
+        padding: 0px;
+        margin-right:auto;
+    }
+
+    
+
+    .Footer-links{
+        text-align: center;
+        padding: 2rem;
+        width: 100%;
+        display: table;
+        transition: all .5s ease-out;
+        font-family: Questrial;
+        font-size: 14px;
+        /* left: 20%; */
+    }
+
+
+    .Footer-links:hover{
+        background-color: black;
+        color:#F8359B;
+        border-radius: 4px;
+        transition: all 0.2s ease-out;
+        font-family: Questrial;
+            font-size: 14px;
+    }
+
+    .Footer-logo{
+        position: absolute;
+        top:20px;
+        
+        /* transform: translate(25%, 50%); */
+        margin: auto;
+        left:auto;
+        /* margin-right: 50%; */
+        
+    }
+
+    
+
+    .fa-times{
+        color: #F8359B;
+        font-size: 2rem;
+
+
+    }
+    .copyRight{
+        text-decoration: none;
+        top:1040px;
+        z-index: 2;
+        align-items: center;
+        display: block;
+        color:white;
+        position: relative;
+        background-color: rgb(0, 0, 0);
+        height: 50px;
+        width: 100%;
+      }
+    
+   
+}
+
+@media screen and (max-width: 380px){
+    .FooterContents{
+        /* background: linear-gradient(90deg,rgb(243, 167, 214) 0%, rgb(233, 44, 208) 100%); */
+        background: black;
+        height: 500px;
+        z-index: 0;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 5350px;
+        font-size: 1.2rem;
+        width: 100%;
+        left: auto;
+        right: auto;
+    }
+    .fb{
+        margin-top: 0;
+        left: 20%;
+        position: absolute;
+        top:440px;
+        background-image: url('../../Images/facebook_icon.png');
+        width: 31px;
+        height: 31px;
+        
+    }
+    .insta{
+        margin-top: 0;
+        left:48%;
+        position: absolute;
+        top:440px;
+        background-image: url('../../Images/instagram_icon.png');
+        width: 31px;
+        height: 31px;
+        
+    
+    }
+    .linkedIn{
+        margin-top: 0;
+        right:20%;
+        position: absolute;
+        top:440px;
+        background-image: url('../../Images/linkedin_icon.png');
+        width: 31px;
+        height: 31px;
+    }
+    .Footer-menu{
+      
+        display: list-item;
+        grid-template-columns: repeat(4,auto);
+        grid-gap: 5px;
+        list-style: none;
+        text-align: center;
+        /* width: 60vw; */
+        text-decoration: none;
+        margin-right: auto;
+        left: auto;
+    }
+
+    
+    
+    .Footer-links{
+        text-align: center;
+        padding: 2rem;
+        width: 100%;
+        display: table;
+        transition: all .5s ease-out;
+        font-family: Questrial;
+        font-size: 14px;
+        left: auto;
+    }
+
+
+    .Footer-links:hover{
+        background-color: black;
+        color:#F8359B;
+        border-radius: 4px;
+        transition: all 0.2s ease-out;
+        font-family: Questrial;
+            font-size: 14px;
+    }
+
+    .Footer-logo{
+        position: absolute;
+        top:20px;
+        
+        /* transform: translate(25%, 50%); */
+        margin: auto;
+        left:auto;
+        margin-right: auto;
+        
+    }
+
+    
+
+    .fa-times{
+        color: #F8359B;
+        font-size: 2rem;
+
+
+    }
+    .copyRight{
+        text-decoration: none;
+        top:625px;
+        z-index: 2;
+        align-items: center;
+        display: block;
+        color:white;
+        position: relative;
+        background-color: rgb(0, 0, 0);
+        height: 50px;
+        width: 100%;
+      }
+    
+   
+}

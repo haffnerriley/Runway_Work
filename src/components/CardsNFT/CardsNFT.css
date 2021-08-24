@@ -1,0 +1,540 @@
+.CardsNFTContent{
+    /* background: linear-gradient(90deg,rgb(243, 167, 214) 0%, rgb(233, 44, 208) 100%); */
+    background: rgb(255, 255, 255);
+    height: 0px;
+    z-index: 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.2rem;
+    width: 100%;
+    list-style: none;
+    left:auto;
+    right: auto;
+    position: relative;
+    cursor: pointer;
+    top:00px;
+}
+/* .CardsContent:hover{
+    background: linear-gradient(90deg,rgb(243, 167, 214) 0%, rgb(233, 44, 208) 100%);
+    background: rgb(218, 26, 26);
+    height: 80px;
+    z-index: 0;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.2rem;
+    width: 100%;
+    list-style: none;
+    left:auto;
+    right: auto;
+    top:100px;
+    cursor: pointer;
+    
+       
+        opacity: 1;
+        transition: all .5s ease-out;
+        transition: all .5s ease-in;
+        
+} */
+
+.CardTitleNFT{
+    color: rgba(46,53,58,1);
+    /* justify-self: start; */
+    /* margin-left: 20px; */
+   
+    top: 500px;
+    left: center;
+    z-index: 2;
+    position: absolute;
+    height: 100px;
+    text-decoration: none;
+    list-style: none;
+}
+.CardHeadingNFT{
+    color: rgba(46,53,58,1);
+    /* justify-self: start; */
+    /* margin-left: 20px; */
+    font-size: 20px;
+    top: 590px;
+    position: absolute;
+    right: 62.5%;
+    display:grid;
+    left: auto;
+    
+    z-index: 2;
+    
+    height: 100px;
+    text-decoration: none;
+    list-style: none;
+}
+.viewMoreNFT{
+    z-index: 2;
+    color: rgba(209,31,123,1);
+    font-size: 16px;
+    font-family: Mulish;
+    text-decoration: none;
+    left: 65%;
+    text-align: center;
+    right: auto;
+    position: absolute;
+    top:608px;
+    transition: all 0.2s ease-out;
+}
+.viewMoreNFT:hover{
+    z-index: 2;
+    color: rgba(209,31,123,1);
+    font-size: 16px;
+    font-family: Mulish;
+    text-decoration: none;
+    left: 65%;
+    text-align: center;
+    right: auto;
+    position: absolute;
+    top:608px;
+    
+    width: auto;
+    background-color:rgb(211, 218, 218);;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}
+.ModelNameNFT{
+    color: rgba(209,31,123,1);
+    
+    font-size: 13px;
+    font-family: Roboto;
+    
+  margin-top: 10px;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: left;
+    width: 100%;
+    text-decoration: none;
+    /* margin-right: 2rem; */
+    z-index: 3;
+    list-style: none;
+
+    left: auto;
+    right: auto;
+    top: 200px;
+    position: absolute;
+    display: flex;
+    align-content: left;
+    justify-content: left;
+    
+}
+.NameNFT{
+    color:rgba(0, 0, 0, 1);
+    position: absolute;
+    font-family: Roboto;
+    font-size: 14px;
+    text-align: left;
+    z-index: 2;
+    z-index: 3;
+    list-style: none;
+
+    left: auto;
+    right: auto;
+    top: 200px;
+    position: absolute;
+    display: flex;
+    align-content: left;
+    justify-content: left;
+    position: absolute;
+    left: auto;
+    right: auto;
+    top: 220px;
+    align-content: left;
+    justify-content: left;
+    margin-top: 10px;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+    list-style: none;
+   
+    
+}
+.itemDetails{
+    width: 200px;
+    height:21px;
+    position: absolute;
+    top: 277px;
+    left: auto;
+    right: auto;
+
+}
+.itemPrice{
+    width: 76px;
+    color: rgba(0, 0, 0, 1);
+    position:absolute;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: bold;
+    top:0px;
+    left: 0px;
+    text-align: left;
+}
+.itemTime{
+    width: 118px;
+    position: absolute;
+    color:red;
+    
+    left: 82px;
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: left;
+    opacity: 1;
+}
+.buyItem{
+    text-decoration: none;
+    width: 89px;
+    color:rgb(136, 133, 130);
+    top:18px;
+    left: 0px;
+    
+    font-family: Roboto;
+    font-size: 10px;
+    opacity: 1;
+    text-align: left;
+    position: absolute;
+}
+.likeIcon0{
+    
+    background:url('..//../Images/heart-unfilled_icon.png');
+    background-repeat: no-repeat;
+    background-position: 0 10;
+    background-size: contain;
+    
+  
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+    list-style: none;
+    
+ 
+    width: 20px;
+    height: 20px;
+    
+    z-index: 4;
+    list-style: none;
+
+    left: 180px;
+    right: auto;
+    top: 210px;
+    position: absolute;
+    display: grid;
+    align-content: right;
+    justify-content: right;
+}
+.isLiked0{
+    
+    
+        background:url('..//../Images/heart-filled_icon.png');
+        background-repeat: no-repeat;
+        background-position: 0 10;
+        background-size: contain;
+        
+      
+        grid-template-columns: repeat(4,auto);
+        grid-gap: 10px;
+        list-style: none;
+        
+     
+        width: 20px;
+        height: 20px;
+        
+        z-index: 4;
+        list-style: none;
+    
+        left: 180px;
+        right: auto;
+        top: 210px;
+        position: absolute;
+        display: grid;
+        align-content: right;
+        justify-content: right;
+    
+}
+.likeIcon1{
+    
+    background:url('..//../Images/heart-unfilled_icon.png');
+    background-repeat: no-repeat;
+    background-position: 0 10;
+    background-size: contain;
+    
+  
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+    list-style: none;
+    
+ 
+    width: 20px;
+    height: 20px;
+    
+    z-index: 4;
+    list-style: none;
+
+    left: 180px;
+    right: auto;
+    top: 210px;
+    position: absolute;
+    display: grid;
+    align-content: right;
+    justify-content: right;
+}
+.isLiked1{
+    
+    
+        background:url('..//../Images/heart-filled_icon.png');
+        background-repeat: no-repeat;
+        background-position: 0 10;
+        background-size: contain;
+        
+      
+        grid-template-columns: repeat(4,auto);
+        grid-gap: 10px;
+        list-style: none;
+        
+     
+        width: 20px;
+        height: 20px;
+        
+        z-index: 4;
+        list-style: none;
+    
+        left: 180px;
+        right: auto;
+        top: 210px;
+        position: absolute;
+        display: grid;
+        align-content: right;
+        justify-content: right;
+    
+}
+.likeIcon2{
+    
+    background:url('..//../Images/heart-unfilled_icon.png');
+    background-repeat: no-repeat;
+    background-position: 0 10;
+    background-size: contain;
+    
+  
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+    list-style: none;
+    
+ 
+    width: 20px;
+    height: 20px;
+    
+    z-index: 4;
+    list-style: none;
+
+    left: 180px;
+    right: auto;
+    top: 210px;
+    position: absolute;
+    display: grid;
+    align-content: right;
+    justify-content: right;
+}
+.isLiked2{
+    
+    
+        background:url('..//../Images/heart-filled_icon.png');
+        background-repeat: no-repeat;
+        background-position: 0 10;
+        background-size: contain;
+        
+      
+        grid-template-columns: repeat(4,auto);
+        grid-gap: 10px;
+        list-style: none;
+        
+     
+        width: 20px;
+        height: 20px;
+        
+        z-index: 4;
+        list-style: none;
+    
+        left: 180px;
+        right: auto;
+        top: 210px;
+        position: absolute;
+        display: grid;
+        align-content: right;
+        justify-content: right;
+    
+}
+.likeIcon3{
+    
+    background:url('..//../Images/heart-unfilled_icon.png');
+    background-repeat: no-repeat;
+    background-position: 0 10;
+    background-size: contain;
+    
+  
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+    list-style: none;
+    
+ 
+    width: 20px;
+    height: 20px;
+    
+    z-index: 4;
+    list-style: none;
+
+    left: 180px;
+    right: auto;
+    top: 210px;
+    position: absolute;
+    display: grid;
+    align-content: right;
+    justify-content: right;
+}
+.isLiked3{
+    
+    
+        background:url('..//../Images/heart-filled_icon.png');
+        background-repeat: no-repeat;
+        background-position: 0 10;
+        background-size: contain;
+        
+      
+        grid-template-columns: repeat(4,auto);
+        grid-gap: 10px;
+        list-style: none;
+        
+     
+        width: 20px;
+        height: 20px;
+        
+        z-index: 4;
+        list-style: none;
+    
+        left: 180px;
+        right: auto;
+        top: 210px;
+        position: absolute;
+        display: grid;
+        align-content: right;
+        justify-content: right;
+    
+}
+
+.ModelImgNFT{
+    /* width:200px; */
+    width: 220px; 
+    height:309px;
+    position: relative;
+    left:auto;
+    right: auto;
+    top: 800px;
+    margin: 15px;
+    /* margin:auto; */
+    z-index: 3;
+    transition: all .2s ease-out;
+        transition: all .1s ease-in;
+}
+.ModelImgNFT:hover{
+      /* width:200px; */
+    width: 220px;
+    height:309px;
+    position: relative;
+    left:auto;
+    right: auto;
+    top: 800px;
+    margin: 15px;
+    z-index: 2;
+    background-color: rgb(211, 218, 218);
+    transition: all .2s ease-out;
+        transition: all .2s ease-in;
+}
+.ModelPicNFT0{
+    width:200px;
+    height: 190px;
+    background: url('../../Images/nft-card_anya-adler.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    left: auto;
+    right: auto;
+    margin: auto;
+    margin-top:10px;
+    top:500px;
+}
+/* .ModelPic0:hover{
+    width:200px;
+    height: 200px;
+    background: url('../../Images/pexels-grisha-chernigowsky-2120097.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    left: auto;
+    right: auto;
+    top:500px;
+    
+   
+    background-color: #a82f6e;
+    border-radius: 0;
+    text-align: center;
+    padding-top: 10px;
+    
+    display: grid;
+} */
+.ModelPicNFT1{
+    width:200px;
+    height: 190px;
+    background: url('../../Images/nft-card_erin-fuller.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    left: auto;
+    right: auto;
+    
+    top:500px;
+    margin: auto;
+    margin-top:10px;
+}
+.ModelPicNFT2{
+    width:200px;
+    height: 190px;
+    background: url('../../Images/nft-card_penny-howard.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    left: auto;
+    right: auto;
+    top:500px;
+   
+    margin: auto;
+    margin-top:10px;
+}
+.ModelPicNFT3{
+    width:200px;
+    height: 190px;
+    background: url('../../Images/nft-card_todd-zhang.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    left: auto;
+    right: auto;
+    top:500px;
+    
+    margin: auto;
+    margin-top:10px;
+}
+
+
+@media screen and (max-width: 960px){
+    .CardsNFTContent{
+       /* position: absolute;
+       top:3700px; */
+       display: none;
+    }
+    }

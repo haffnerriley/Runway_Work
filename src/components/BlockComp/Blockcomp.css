@@ -1,0 +1,2444 @@
+
+/* ----------------Block Component 0---------------------- */
+.homepage{
+  text-decoration: none;
+}
+.BlockContents0{
+  /* position: relative;
+  display: grid;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ color: black;
+ z-index: 0;
+ display: block;
+ height: 460px;
+ 
+ top: 40px; 
+ text-decoration: none;
+  margin-left: auto;
+  margin-right: auto; */
+
+ /* New Stuff */
+ 
+/* margin: auto; */
+text-align: center;
+ height: 460px;
+ width:100%;
+top:80px;
+position: relative;
+
+
+}
+.BlockImg0{
+  width: 40%;
+height: 400px;
+background: url("../../Images/1-hero_image.jpg");
+background-repeat: no-repeat;
+background-position: center right;
+background-size: cover;
+opacity: 1;
+position: absolute;
+top: 30px;
+/* left: auto; */
+/* right: auto; */
+overflow: hidden;
+text-decoration: none;
+float: inline-start;
+
+
+}
+/* .BlockText0{ */
+  /* display: flex;
+ 
+  justify-content: center;
+  align-items: center;
+  overflow: visible;
+  width: 100%;
+  height: inherit;
+  position: absolute;
+  text-decoration: none; */
+/* New Stuff */
+  
+  /* text-align: left;
+ padding: 25px 25px;
+  width:45%;
+  margin: auto;
+  padding: 25px 25px;
+  
+  height: 400px;
+  position: relative;
+  left: 25px; */
+
+/* } */
+
+.BlockHeading0{
+  /* text-decoration: none;
+  color: rgb(190, 195, 199);
+  position: relative;
+  left: auto;
+  right: auto;
+  margin-left: 150px;
+  height: auto;
+  width: auto;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left; */
+  /* New Stuff */
+ 
+ /* padding: 25px 25px; */
+  /* margin-left: 375px; */
+  /* margin: auto; */
+  /* top: 80px; */
+  
+  /* width: 30vw; */
+  height: inherit;
+  text-decoration: none;
+  text-align: left;
+  left:40%;
+  position: absolute;
+  top: 30px;
+  width: 60%;
+  margin-left: 0%;
+  overflow: auto;
+}
+.BlockTitle0{
+  
+  /* width: 583px;
+ 
+color: rgba(46,53,58,1);
+position:absolute;
+top: 0px;
+left:150px; */
+
+
+/* text-align: left; */
+
+
+/* New Stuff */
+
+/* padding: 25px 25px; */
+color: #d11f7b;
+font-family: Mulish;
+font-weight: Bold;
+font-size: 35px;
+opacity: 1;
+text-align: left;
+display: block;
+ width:50%;
+ height: max-content;
+ 
+ position: relative;
+ left: 0px;
+ line-height: 50px;
+ 
+  top:30px;
+  
+
+}
+.BlockParagraph0{
+  
+  
+ display: block;
+width: 40%;
+position: relative;
+font-family: Mulish;
+font-weight: normal;
+font-size: 16px;
+opacity: 1;
+top:50px;
+text-decoration: none;
+text-align: left;
+  line-height: 25px;
+ 
+}
+.BlockButton0{
+  position: relative;
+  
+}
+
+
+
+/* ---------------------Block Component 1---------------------- */
+
+.BlockContents1{
+  /* display: grid;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ color: black;
+ z-index: 0;
+ 
+ height: 560px;
+ top: 150px;  */
+ background-color: rgb(226, 227, 230);
+ 
+ /* position: relative; 
+ text-decoration: none; */
+ 
+ /* New Stuff */
+ text-align: center;
+ height: 460px;
+ width:100%;
+  top:80px;
+position: relative;
+ 
+
+
+
+
+}
+.BlockImg1{
+  /* width: 30%; */
+height: 400px;
+background: url("../../Images/pexels-murat-esibatir-4355346.jpg");
+/* background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+opacity: 1;
+position: absolute;
+top: 80px;
+left: 1050px;
+overflow: hidden; */
+
+
+left: 50%;
+width: 35%;
+height: 400px;
+
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+opacity: 1;
+position: relative;
+top: 30px;
+/* left: auto; */
+/* right: auto; */
+overflow: hidden;
+text-decoration: none;
+
+}
+.BlockHeading1{
+  
+  height: inherit;
+  text-decoration: none;
+  text-align: left;
+  /* left:40%; */
+  position: absolute;
+  top: 30px;
+  width: 50%;
+  
+  /* overflow: auto; */
+  color: rgba(46,53,58,1);
+  /* Old below */
+  
+  position: absolute;
+  
+  
+  /* top: 200px; */
+  /* left: 400px; */
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  
+  
+  
+
+
+  
+}
+.BlockTitle1{
+  
+  /* width: 583px;
+
+position: absolute;
+top: 0px;
+left: 0px;
+font-family: Mulish;
+font-weight: Bold;
+font-size: 35px;
+opacity: 1;
+text-align: left; */
+
+
+color: #d11f7b;
+font-family: Mulish;
+font-weight: Bold;
+font-size: 35px;
+opacity: 1;
+text-align: left;
+display: block;
+ width:45%;
+ height: max-content;
+ margin-left: 45%;
+ position: relative;
+ /* left:45%; */
+ line-height: 50px;
+ 
+  top:30px;
+
+
+  
+  
+  
+  
+  
+   
+   
+   
+}
+
+
+
+
+.BlockParagraph1{
+  
+
+
+  /* width: 468px;
+color: rgba(103,103,103,1);
+position: absolute;
+top: 100px;
+
+font-family: Mulish;
+font-weight: Regular;
+font-size: 16px;
+opacity: 1;
+margin-bottom: 50px; */
+
+display: block;
+width: 45%;
+margin-left: 45%;
+position: relative;
+font-family: Mulish;
+font-weight: normal;
+font-size: 16px;
+opacity: 1;
+top:50px;
+text-decoration: none;
+text-align: left;
+  line-height: 25px;
+
+}
+
+.BlockButton1{
+   
+  display: none;
+}
+
+
+/* ---------------------Block Component 2---------------------- */
+.BlockContents2{
+  /* display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ color: black;
+ z-index: 0;
+ display: block;
+ height: 460px;
+ position: relative;
+ top: 40px; 
+ text-decoration: none;
+  margin-left: auto;
+  margin-right: auto; */
+
+
+  text-align: center;
+  height: 460px;
+  width:100%;
+  top:180px;
+  position: relative;
+
+ 
+ 
+  
+
+
+
+
+}
+
+.BlockImg2{
+  width:25%;
+height: 300px;
+background: url("../../Images/bodysectionAimage.jpg");
+
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+opacity: 1;
+position: absolute;
+top: 50px;
+left: 20%;
+overflow: hidden;
+text-decoration: none;
+/* float: left; */
+
+
+
+
+
+
+
+
+
+
+
+}
+.BlockHeading2{
+  /* text-decoration: none;
+  color: rgb(190, 195, 199);
+  position: relative;
+  
+  
+  top: 0px;
+  left: 150px;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left; */
+
+
+  height: inherit;
+  text-decoration: none;
+  text-align: left;
+  left:40%;
+  position: absolute;
+  /* top: 30px; */
+  width: 60%;
+  margin-left: 0%;
+  overflow: auto;
+}
+.BlockTitle2{
+  
+  /* width: 583px; */
+color: rgba(46,53,58,1);
+/* position: absolute; */
+top: 50px;
+left: 10%;
+font-family: Mulish;
+font-weight: Bold;
+font-size: 19px;
+opacity: 1;
+text-align: left;
+
+
+
+
+
+
+
+display: block;
+ width:50%;
+ height: max-content;
+ 
+ position: relative;
+ 
+ line-height: 20px;
+ 
+  /* top:30px; */
+}
+.BlockParagraph2{
+   
+
+
+  /* width: 468px;
+color: rgba(103,103,103,1);
+position: absolute;
+top: 150px;
+
+font-family: Mulish;
+font-weight: Regular;
+font-size: 16px;
+opacity: 1;
+margin-bottom: 50px;
+
+text-decoration: none; */
+
+display: block;
+width: 40%;
+position: relative;
+font-family: Mulish;
+font-weight: normal;
+font-size: 16px;
+opacity: 1;
+left:10%;
+top:55px;
+text-decoration: none;
+text-align: left;
+  line-height: 25px;
+
+}
+.BlockButton2{
+   
+  display: none;
+}
+
+
+.BlockText2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right:100px;
+  width: 100%;
+  height: inherit;
+  position: absolute;
+  text-decoration: none;
+
+ 
+
+}
+/* ---------------------Block Component 3---------------------- */
+.BlockContents3{
+  /* display: grid;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ color: black;
+ z-index: 0;
+ 
+ height: 460px;
+ top: 300px;  */
+ background-color: rgb(255, 255, 255);
+ 
+ /* position: relative; 
+ text-decoration: none; */
+ 
+ text-align: center;
+ height: 460px;
+ width:100%;
+  top:80px;
+position: relative;
+ 
+
+
+
+
+}
+.BlockImg3{
+  /* width: 30%; */
+/* height: 400px; */
+background: url("../../Images/bodysectionBimage.jpg");
+/* background-repeat: no-repeat; */
+/* background-position: center center; */
+/* background-size: cover; */
+/* opacity: 1; */
+/* position: absolute; */
+/* top: 100px; */
+/* left: 1050px; */
+/* overflow: hidden; */
+
+width:25%;
+height: 300px;
+/* height: 400px; */
+left: 50%;
+/* width: 35%; */
+/* height: 400px; */
+
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+opacity: 1;
+position: relative;
+top: 30px;
+/* left: auto; */
+/* right: auto; */
+overflow: hidden;
+text-decoration: none;
+
+}
+.BlockHeading3{
+  
+  color: rgba(46,53,58,1);
+  position: absolute;
+  
+  
+  /* top: 200px; */
+  /* left: 400px; */
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+  
+  
+
+  height: inherit;
+  text-decoration: none;
+  
+ 
+  
+  top: 30px;
+  width: 50%;
+  
+  /* overflow: auto; */
+  color: rgba(46,53,58,1);
+  /* Old below */
+  
+  position: absolute;
+  
+  
+  
+  
+}
+.BlockTitle3{
+  
+  /* width: 583px; */
+color: rgba(46,53,58,1);
+/* position: absolute; */
+/* top: 0px; */
+/* left: 0px; */
+font-family: Mulish;
+font-weight: Bold;
+font-size: 19px;
+opacity: 1;
+text-align: left;
+
+
+
+
+
+
+display: block;
+ width:35%;
+ height: max-content;
+ margin-left: 63%;
+ position: relative;
+ /* left:45%; */
+ line-height: 20px;
+ 
+  top:30px;
+}
+
+
+
+.BlockParagraph3{
+  
+
+
+  /* width: 468px; */
+color: rgba(103,103,103,1);
+/* position: absolute;
+top: 70px; */
+
+
+
+
+ 
+
+color: rgba(46,53,58,1);
+display: block;
+width: 35%;
+margin-left: 63%;
+position: relative;
+font-family: Mulish;
+font-weight: normal;
+font-size: 16px;
+opacity: 1;
+top:50px;
+text-decoration: none;
+text-align: left;
+  line-height: 25px;
+
+}
+.BlockButton3{
+   
+  display: none;
+}
+
+.BlockText3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left:300px;
+  bottom: 90px;
+  width: 100%;
+  height: inherit;
+  position: absolute;
+  
+
+  
+
+}
+
+/* ---------------------Block Component 4---------------------- */
+.BlockContents4{
+  /* display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ color: black;
+ z-index: 0;
+ display: block;
+ height: 460px;
+ position: relative;
+ top: 200px; 
+ text-decoration: none;
+  margin-left: auto;
+  margin-right: auto; */
+
+  text-align: center;
+  height: 460px;
+  width:100%;
+  /* top:180px; */
+  position: relative;
+ 
+
+
+
+
+}
+
+.BlockImg4{
+  
+background: url("../../Images/bodysectionCimage.jpg");
+
+/* top: 300px;
+left: 400px; */
+
+
+
+
+
+width:25%;
+height: 300px;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+opacity: 1;
+position: absolute;
+top: 50px;
+left: 20%;
+overflow: hidden;
+text-decoration: none;
+}
+.BlockHeading4{
+  /* text-decoration: none;
+  color: rgb(190, 195, 199);
+  position: relative;
+  
+  
+  top: 0px;
+  left: 150px;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left; */
+
+
+
+
+  height: inherit;
+  text-decoration: none;
+  text-align: left;
+  left:40%;
+  position: absolute;
+  /* top: 30px; */
+  width: 60%;
+  margin-left: 0%;
+  overflow: auto;
+}
+.BlockTitle4{
+  
+  /* width: 583px;
+color: rgba(46,53,58,1);
+position: absolute;
+top: 115px;
+left: 0px;
+font-family: Mulish;
+font-weight: Bold;
+font-size: 19px;
+opacity: 1;
+text-align: left; */
+
+
+
+
+color: rgba(46,53,58,1);
+/* position: absolute; */
+top: 50px;
+left: 10%;
+font-family: Mulish;
+font-weight: Bold;
+font-size: 19px;
+opacity: 1;
+text-align: left;
+
+
+
+
+
+
+
+display: block;
+ width:50%;
+ height: max-content;
+ 
+ position: relative;
+ 
+ line-height: 20px;
+ 
+  /* top:30px; */
+
+}
+.BlockParagraph4{
+   
+
+
+  /* width: 468px;
+color: rgba(103,103,103,1);
+position: absolute;
+top: 150px;
+
+font-family: Mulish;
+font-weight: Regular;
+font-size: 16px;
+opacity: 1;
+margin-bottom: 50px;
+
+text-decoration: none; */
+
+
+
+display: block;
+width: 40%;
+position: relative;
+font-family: Mulish;
+font-weight: normal;
+font-size: 16px;
+opacity: 1;
+left:10%;
+top:55px;
+text-decoration: none;
+text-align: left;
+  line-height: 25px;
+
+
+}
+.BlockButton4{
+   
+  display: none;
+}
+
+
+.BlockText4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right:100px;
+  width: 100%;
+  height: inherit;
+  position: absolute;
+  text-decoration: none;
+
+ 
+
+}
+
+@media screen and (max-width: 960px){
+  .BlockContents0{
+    
+  text-align: center;
+   height: 920px;
+   width:100%;
+  top:80px;
+  position: relative;
+  
+  
+  }
+  .BlockImg0{
+    width: 100%;
+  height: 400px;
+  background: url("../../Images/1-hero_image.jpg");
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  /* left: auto; */
+  /* right: auto; */
+  overflow: hidden;
+  text-decoration: none;
+  float: inline-start;
+  
+  
+  }
+  
+  
+  .BlockHeading0{
+    
+    /* height: inherit; */
+    text-decoration: none;
+    text-align: center;
+    /* left:40%; */
+    position: relative;
+    top: 400px;
+    width: 75%;
+    /* margin-left: 0%; */
+    left: 50px;
+    
+  }
+  .BlockTitle0{
+    
+    /* width: 583px;
+   
+  color: rgba(46,53,58,1);
+  position:absolute;
+  top: 0px;
+  left:150px; */
+  
+  
+  /* text-align: left; */
+  
+  
+  /* New Stuff */
+  
+  /* padding: 25px 25px; */
+  color: #d11f7b;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+  display: block;
+   width:100%;
+   height: max-content;
+   
+   position: relative;
+   /* left: 0px; */
+   line-height: 50px;
+   
+    top:30px;
+    
+  
+  }
+  .BlockParagraph0{
+    
+    
+   display: block;
+  width: 75%;
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  top:50px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+   
+  }
+  .BlockButton0{
+    position: absolute;
+    display: block;
+    height: max-content;
+    /* left:30%; */
+    text-align: center;
+    width: 100%;
+    
+    
+  }
+  /* ----------------------------Block 1-------------------------------- */
+  .BlockContents1{
+    /* display: grid;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   
+   height: 560px;
+   top: 150px;  */
+   /* background-color: rgb(226, 227, 230); */
+   background-color: rgb(255, 255, 255);
+   /* position: relative; 
+   text-decoration: none; */
+   
+   /* New Stuff */
+   text-align: center;
+   height: 820px;
+   width:100%;
+    top:0px;
+  position: relative;
+   
+  
+  
+  
+  
+  }
+  .BlockImg1{
+    /* width: 30%; */
+  
+  background: url("../../Images/pexels-murat-esibatir-4355346.jpg");
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 1050px;
+  overflow: hidden; */
+  
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 300px;
+  /* left: auto; */
+  /* right: auto; */
+  overflow: hidden;
+  text-decoration: none;
+  
+  }
+  .BlockHeading1{
+    
+    height: 460px;
+    text-decoration: none;
+    text-align: left;
+    /* left:40%; */
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    
+    /* overflow: auto; */
+    color: rgba(46,53,58,1);
+    /* Old below */
+    
+    position: absolute;
+    
+    
+    /* top: 200px; */
+    /* left: 400px; */
+    font-family: Mulish;
+    font-weight: Bold;
+    font-size: 35px;
+    opacity: 1;
+    
+    
+    
+  
+  
+    
+  }
+  .BlockTitle1{
+    
+    /* width: 583px;
+  
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left; */
+  
+  
+  color: #d11f7b;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: center;
+  display: block;
+   width:100%;
+   height: max-content;
+   margin-left: 0%;
+   position: relative;
+   /* left:45%; */
+   line-height: 50px;
+   
+    top:0px;
+  
+  
+    
+    
+    
+    
+    
+     
+     
+     
+  }
+  
+  
+  
+  
+  .BlockParagraph1{
+    
+  
+  
+    /* width: 468px;
+  color: rgba(103,103,103,1);
+  position: absolute;
+  top: 100px;
+  
+  font-family: Mulish;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  margin-bottom: 50px; */
+  
+  display: block;
+  width: 65%;
+   left: -25%;
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  top:15px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+  
+  }
+  
+  .BlockButton1{
+     
+    display: none;
+  }
+
+
+  /* -------------------------Block 2--------------------- */
+
+  .v133_304{
+    top: 1780px;
+  }
+
+  .BlockContents2{
+    /* display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   display: block;
+   height: 460px;
+   position: relative;
+   top: 40px; 
+   text-decoration: none;
+    margin-left: auto;
+    margin-right: auto; */
+  
+  
+    text-align: center;
+    height: 660px;
+    width:100%;
+    top:150px;
+    position: relative;
+  
+   
+   
+    
+  
+  
+  
+  
+  }
+  
+  .BlockImg2{
+    /* width:25%;
+  height: 300px; */
+  background: url("../../Images/bodysectionAimage.jpg");
+  
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 20%;
+  overflow: hidden;
+  text-decoration: none; */
+  /* float: left; */
+  
+  
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  .BlockHeading2{
+    /* text-decoration: none;
+    color: rgb(190, 195, 199);
+    position: relative;
+    
+    
+    top: 0px;
+    left: 150px;
+    font-family: Mulish;
+    font-weight: Bold;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left; */
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    left: 12.5%;
+    top:450px;
+    height: 250px;
+    text-decoration: none;
+    text-align: center;
+    /* left:40%; */
+    /* position: absolute; */
+    /* top: 30px; */
+    /* width: 60%;
+    margin-left: 0%; */
+    
+  }
+  .BlockTitle2{
+    
+   
+  color: rgba(46,53,58,1);
+ 
+  top: 50px;
+  
+  width:85%;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+  
+  left: 0%;
+  
+  
+  
+  
+  
+  display: block;
+   
+   
+   
+   line-height: 20px;
+   
+    
+  }
+  .BlockParagraph2{
+     
+  
+  
+    /* width: 468px;
+  color: rgba(103,103,103,1);
+  position: absolute;
+  top: 150px;
+  
+  font-family: Mulish;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  margin-bottom: 50px;
+  
+  text-decoration: none; */
+  
+  display: block;
+  width: 75%;
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  left:0%;
+  top:75px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+  
+  }
+  .BlockButton2{
+     
+    display: none;
+  }
+  
+  
+  .BlockText2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right:100px;
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    text-decoration: none;
+  
+   
+  
+  }
+
+  /* ----------------Block 3----------------------- */
+  .BlockContents3{
+    /* display: grid;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   
+   height: 460px;
+   top: 300px;  */
+   background-color: rgb(255, 255, 255);
+   
+   /* position: relative; 
+   text-decoration: none; */
+   
+   text-align: center;
+    height: 600px;
+    width:100%;
+    top:150px;
+    position: relative;
+  
+  
+  
+  
+  }
+  .BlockImg3{
+   
+  background: url("../../Images/bodysectionBimage.jpg");
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  
+  
+  
+  }
+  .BlockHeading3{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    left: 12.5%;
+    top:450px;
+    height: 250px;
+    text-decoration: none;
+    text-align: center;
+    
+    
+  
+    
+    
+    
+    
+  }
+  .BlockTitle3{
+    color: rgba(46,53,58,1);
+ 
+  top: 30px;
+  
+  width:50%;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+  
+  /* left: 12.5%; */
+ right:62%;
+  
+  
+  
+  
+  display: block;
+   
+   
+   
+   line-height: 20px;
+    
+   
+    
+  }
+  
+  
+  
+  .BlockParagraph3{
+    
+  
+  
+    display: block;
+    width: 50%;
+    position: relative;
+    font-family: Mulish;
+    font-weight: normal;
+    font-size: 16px;
+    opacity: 1;
+    right:62%;
+    top:50px;
+    text-decoration: none;
+    text-align: left;
+      line-height: 25px;
+  }
+  .BlockButton3{
+     
+    display: none;
+  }
+  
+  .BlockText3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left:300px;
+    bottom: 90px;
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    
+  
+    
+  
+  }
+  /* ---------------Block 4------------------ */
+  .BlockContents4{
+    /* display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   display: block;
+   height: 460px;
+   position: relative;
+   top: 40px; 
+   text-decoration: none;
+    margin-left: auto;
+    margin-right: auto; */
+  
+  
+    text-align: center;
+    height: 660px;
+    width:100%;
+    top:150px;
+    position: relative;
+  
+   
+   
+    
+  
+  
+  
+  
+  }
+  
+  .BlockImg4{
+    /* width:25%;
+  height: 300px; */
+  background: url("../../Images/bodysectionCimage.jpg");
+  
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 20%;
+  overflow: hidden;
+  text-decoration: none; */
+  /* float: left; */
+  
+  
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  .BlockHeading4{
+    /* text-decoration: none;
+    color: rgb(190, 195, 199);
+    position: relative;
+    
+    
+    top: 0px;
+    left: 150px;
+    font-family: Mulish;
+    font-weight: Bold;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left; */
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    left: 12.5%;
+    top:450px;
+    height: 250px;
+    text-decoration: none;
+    text-align: center;
+    /* left:40%; */
+    /* position: absolute; */
+    /* top: 30px; */
+    /* width: 60%;
+    margin-left: 0%; */
+    
+  }
+  .BlockTitle4{
+    
+   
+  color: rgba(46,53,58,1);
+ 
+  top: 50px;
+  
+  width:85%;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+  
+  left: 0%;
+  
+  
+  
+  
+  
+  display: block;
+   
+   
+   
+   line-height: 20px;
+   
+    
+  }
+  .BlockParagraph4{
+     
+  
+  
+    /* width: 468px;
+  color: rgba(103,103,103,1);
+  position: absolute;
+  top: 150px;
+  
+  font-family: Mulish;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  margin-bottom: 50px;
+  
+  text-decoration: none; */
+  
+  display: block;
+  width: 75%;
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  left:0%;
+  top:75px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+  
+  }
+  .BlockButton4{
+     
+    display: none;
+  }
+  
+  
+  .BlockText4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right:100px;
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    text-decoration: none;
+  
+   
+  
+  }
+
+}
+
+@media screen and (max-width: 380px){
+  .BlockContents0{
+    
+  text-align: center;
+   height: 920px;
+   width:100%;
+  top:80px;
+  position: relative;
+  
+  
+  }
+  .BlockImg0{
+    width: 100%;
+  height: 400px;
+  background: url("../../Images/1-hero_image.jpg");
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  /* left: auto; */
+  /* right: auto; */
+  overflow: hidden;
+  text-decoration: none;
+  float: inline-start;
+  
+  
+  }
+  
+  
+  .BlockHeading0{
+    
+    /* height: inherit; */
+    text-decoration: none;
+    text-align: center;
+    /* left:40%; */
+    position: relative;
+    top: 400px;
+    width: 100%;
+    /* margin-left: 0%; */
+    left: 0px;
+    
+    
+  }
+  .BlockTitle0{
+    
+    /* width: 583px;
+   
+  color: rgba(46,53,58,1);
+  position:absolute;
+  top: 0px;
+  left:150px; */
+  
+  
+  /* text-align: left; */
+  
+  
+  /* New Stuff */
+  
+  /* padding: 25px 25px; */
+  color: #d11f7b;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+  display: block;
+   width:75%;
+   height: max-content;
+   left: 12.5%;
+   position: relative;
+   /* left: 0px; */
+   line-height: 50px;
+   
+    top:30px;
+    
+  
+  }
+  .BlockParagraph0{
+    
+    
+   display: block;
+  width: 75%;
+  left: 12.5%;
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  top:50px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+   
+  }
+  .BlockButton0{
+    position: absolute;
+    display: none;
+    height: max-content;
+    /* left:30%; */
+    text-align: center;
+    width: 100%;
+    
+    
+  }
+  /* ----------------------------Block 1-------------------------------- */
+  .BlockContents1{
+    /* display: grid;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   
+   height: 560px;
+   top: 150px;  */
+   /* background-color: rgb(226, 227, 230); */
+   background-color: rgb(255, 255, 255);
+   /* position: relative; 
+   text-decoration: none; */
+   
+   /* New Stuff */
+   text-align: center;
+   height: 820px;
+   width:100%;
+    top:0px;
+  position: relative;
+   
+  
+  
+  
+  
+  }
+  .BlockImg1{
+    /* width: 30%; */
+  
+  background: url("../../Images/pexels-murat-esibatir-4355346.jpg");
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 1050px;
+  overflow: hidden; */
+  
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 300px;
+  /* left: auto; */
+  /* right: auto; */
+  overflow: hidden;
+  text-decoration: none;
+  
+  }
+  .BlockHeading1{
+    
+    height: 460px;
+    text-decoration: none;
+    text-align: left;
+    /* left:40%; */
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    
+    /* overflow: auto; */
+    color: rgba(46,53,58,1);
+    /* Old below */
+    
+    position: absolute;
+    
+    
+    /* top: 200px; */
+    /* left: 400px; */
+    font-family: Mulish;
+    font-weight: Bold;
+    font-size: 35px;
+    opacity: 1;
+    
+    
+    
+  
+  
+    
+  }
+  .BlockTitle1{
+    
+    /* width: 583px;
+  
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left; */
+  
+  
+  color: #d11f7b;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: center;
+  display: block;
+   width:100%;
+   height: max-content;
+   margin-left: 0%;
+   position: relative;
+   /* left:45%; */
+   line-height: 50px;
+   
+    top:0px;
+  
+  
+    
+    
+    
+    
+    
+     
+     
+     
+  }
+  
+  
+  
+  
+  .BlockParagraph1{
+    
+  
+  
+    /* width: 468px;
+  color: rgba(103,103,103,1);
+  position: absolute;
+  top: 100px;
+  
+  font-family: Mulish;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  margin-bottom: 50px; */
+  left: 0;
+  display: block;
+  width: 75%;
+  /* text-align: center; */
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  top:15px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+  /* left:-31.5%; */
+  margin-left: 12.5%;
+  margin-right: 0;
+  
+  }
+  
+  .BlockButton1{
+     
+    display: none;
+  }
+
+
+  /* -------------------------Block 2--------------------- */
+
+  .v133_304{
+    top: 1780px;
+    left: 12.5%;
+    width: 75%;
+    text-align: left;
+  }
+
+  .BlockContents2{
+    /* display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   display: block;
+   height: 460px;
+   position: relative;
+   top: 40px; 
+   text-decoration: none;
+    margin-left: auto;
+    margin-right: auto; */
+  
+  
+    text-align: center;
+    height: 660px;
+    width:100%;
+    top:150px;
+    position: relative;
+  
+   
+   
+    
+  
+  
+  
+  
+  }
+  
+  .BlockImg2{
+    /* width:25%;
+  height: 300px; */
+  background: url("../../Images/bodysectionAimage.jpg");
+  
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 20%;
+  overflow: hidden;
+  text-decoration: none; */
+  /* float: left; */
+  
+  
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  .BlockHeading2{
+    /* text-decoration: none;
+    color: rgb(190, 195, 199);
+    position: relative;
+    
+    
+    top: 0px;
+    left: 150px;
+    font-family: Mulish;
+    font-weight: Bold;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left; */
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    left: 12.5%;
+    top:450px;
+    height: 250px;
+    text-decoration: none;
+    text-align: center;
+    /* left:40%; */
+    /* position: absolute; */
+    /* top: 30px; */
+    /* width: 60%;
+    margin-left: 0%; */
+    
+  }
+  .BlockTitle2{
+    
+   
+  color: rgba(46,53,58,1);
+ 
+  top: 50px;
+  
+  width:100%;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+  
+  left: 0%;
+  
+  
+  
+  
+  
+  display: block;
+   
+   
+   
+   line-height: 20px;
+   
+    
+  }
+  .BlockParagraph2{
+     
+  
+  
+    /* width: 468px;
+  color: rgba(103,103,103,1);
+  position: absolute;
+  top: 150px;
+  
+  font-family: Mulish;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  margin-bottom: 50px;
+  
+  text-decoration: none; */
+  
+  display: block;
+  width: 100%;
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  left:0%;
+  top:75px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+  
+  }
+  .BlockButton2{
+     
+    display: none;
+  }
+  
+  
+  .BlockText2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right:100px;
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    text-decoration: none;
+  
+   
+  
+  }
+
+  /* ----------------Block 3----------------------- */
+  .BlockContents3{
+    /* display: grid;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   
+   height: 460px;
+   top: 300px;  */
+   background-color: rgb(255, 255, 255);
+   
+   /* position: relative; 
+   text-decoration: none; */
+   
+   text-align: center;
+    height: 600px;
+    width:100%;
+    top:200px;
+    position: relative;
+  
+  
+  
+  
+  }
+  .BlockImg3{
+   
+  background: url("../../Images/bodysectionBimage.jpg");
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  
+  
+  
+  }
+  .BlockHeading3{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    left: 12.5%;
+    top:450px;
+    height: 250px;
+    text-decoration: none;
+    text-align: center;
+    
+    
+  
+    
+    
+    
+    
+  }
+  .BlockTitle3{
+    color: rgba(46,53,58,1);
+ 
+  top: 30px;
+  
+  width:75%;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+  
+  /* left: 12.5%; */
+ right:62%;
+  
+  
+  
+  
+  display: block;
+   
+   
+   
+   line-height: 20px;
+    
+   
+    
+  }
+  
+  
+  
+  .BlockParagraph3{
+    
+  
+  
+    display: block;
+    width: 75%;
+    position: relative;
+    font-family: Mulish;
+    font-weight: normal;
+    font-size: 16px;
+    opacity: 1;
+    right:62%;
+    top:50px;
+    text-decoration: none;
+    text-align: left;
+      line-height: 25px;
+  }
+  .BlockButton3{
+     
+    display: none;
+  }
+  
+  .BlockText3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left:300px;
+    bottom: 90px;
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    
+  
+    
+  
+  }
+  /* ---------------Block 4------------------ */
+  .BlockContents4{
+    /* display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: black;
+   z-index: 0;
+   display: block;
+   height: 460px;
+   position: relative;
+   top: 40px; 
+   text-decoration: none;
+    margin-left: auto;
+    margin-right: auto; */
+  
+  
+    text-align: center;
+    height: 660px;
+    width:100%;
+    top:200px;
+    position: relative;
+  
+   
+   
+    
+  
+  
+  
+  
+  }
+  
+  .BlockImg4{
+    /* width:25%;
+  height: 300px; */
+  background: url("../../Images/bodysectionCimage.jpg");
+  
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 20%;
+  overflow: hidden;
+  text-decoration: none; */
+  /* float: left; */
+  
+  
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+  
+  left:12.5%;
+  right: 12.5%;
+  
+  
+  
+  
+  
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  .BlockHeading4{
+    /* text-decoration: none;
+    color: rgb(190, 195, 199);
+    position: relative;
+    
+    
+    top: 0px;
+    left: 150px;
+    font-family: Mulish;
+    font-weight: Bold;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left; */
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    left: 12.5%;
+    top:450px;
+    height: 240px;
+    text-decoration: none;
+    text-align: center;
+    /* left:40%; */
+    /* position: absolute; */
+    /* top: 30px; */
+    /* width: 60%;
+    margin-left: 0%; */
+    
+  }
+  .BlockTitle4{
+    
+   
+  color: rgba(46,53,58,1);
+ 
+  top: 20px;
+  
+  width:100%;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+  
+  left: 0%;
+  
+  
+  
+  
+  
+  display: block;
+   
+   
+   
+   line-height: 20px;
+   
+    
+  }
+  .BlockParagraph4{
+     
+  
+  
+    /* width: 468px;
+  color: rgba(103,103,103,1);
+  position: absolute;
+  top: 150px;
+  
+  font-family: Mulish;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  margin-bottom: 50px;
+  
+  text-decoration: none; */
+  
+  display: block;
+  width: 100%;
+  position: relative;
+  font-family: Mulish;
+  font-weight: normal;
+  font-size: 16px;
+  opacity: 1;
+  left:0%;
+  top:30px;
+  text-decoration: none;
+  text-align: left;
+    line-height: 25px;
+  
+  }
+  .BlockButton4{
+     
+    display: none;
+  }
+  
+  
+  .BlockText4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right:100px;
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    text-decoration: none;
+  
+   
+  
+  }
+
+}

@@ -1,0 +1,133 @@
+.footMessage{
+    left: auto;
+    right:auto;
+    top:3350px;
+    height: 400px;
+    background-color: rgb(226, 227, 230);
+    position: absolute;
+    text-align: center;
+    align-content:center;
+    width: 100%;
+    display: grid;
+   justify-content: center;
+   align-items: center;
+   font-family: Roboto;
+   color: rgba(0,0,0,1);
+   font-weight: Bold;
+   font-size: 30px;
+   opacity: 1;
+   text-align: center;
+
+  }
+
+  .custom{
+    padding: 8px 20px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top:3600px;
+    
+    align-content: center;
+    width: 200px;
+    left:46%;
+    
+  }
+
+  
+
+  @media screen and (max-width: 960px){
+
+    .footMessage{
+      left: auto;
+      right:auto;
+      top:4870px;
+      height: 400px;
+      background-color: rgb(255, 255, 255);
+      position: absolute;
+      text-align: center;
+      align-content:center;
+      width: 100%;
+      display: grid;
+     justify-content: center;
+     align-items: center;
+     font-family: Roboto;
+     color: rgba(0,0,0,1);
+     font-weight: Bold;
+     font-size: 30px;
+     opacity: 1;
+     text-align: center;
+    
+    }
+
+    .custom{
+      padding: 8px 20px;
+      border-radius: 4px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+      position: absolute;
+      top:5200px;
+      left: 12.5%;
+      right: auto;
+      align-content: center;
+      width: 70%;
+      font-family: Mulish;
+      
+    }
+
+
+  }
+
+  @media screen and (max-width: 380px){
+    .messageFoot{
+      position: relative;
+      width: 75%;
+      left: 12.5%;
+      right: 12.5%;
+      display: block;
+      top: 100px;
+
+    }
+    .footMessage{
+      left: auto;
+      right:auto;
+      top:100px;
+      height: 400px;
+      background-color: rgb(255, 255, 255);
+      position: relative;
+      
+      align-content:center;
+      /* width: 100%; */
+      display: block;
+     justify-content: center;
+     align-items: center;
+     font-family: Roboto;
+     color: rgba(0,0,0,1);
+     font-weight: Bold;
+     font-size: 30px;
+     opacity: 1;
+     text-align: center;
+    
+    }
+    
+    .custom{
+      padding: 8px 20px;
+      border-radius: 4px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+      position: absolute;
+      top:5200px;
+      left: 12.5%;
+      right: auto;
+      align-content: center;
+      width: 75%;
+      font-family: Mulish;
+      
+    }
+
+
+
+  }
